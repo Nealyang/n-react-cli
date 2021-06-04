@@ -1,0 +1,23 @@
+{
+  "name": "n-react-cli",
+  "version": "0.0.1",
+  "description": "react cli",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nealyang/n-react-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "react"
+  ],
+  "author": "Nealyang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nealyang/n-react-cli/issues"
+  },
+  "homepage": "https://github.com/Nealyang/n-react-cli#readme"
+}
