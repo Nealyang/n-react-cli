@@ -1,5 +1,5 @@
 {
-  "name": "n-react-cli",
+  "name": "@test/n-react-cli",
   "version": "0.0.1",
   "description": "react cli",
   "main": "src/index.js",
